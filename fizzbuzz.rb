@@ -8,5 +8,6 @@ elseif int % 5 == 0
   "Buzz"
 elseif int % 5 == 0 && int % 3 == 0
   "Fizzbuzz"
+else "nill"
 end
 end
